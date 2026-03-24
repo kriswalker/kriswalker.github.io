@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astrophysics PhD student at [ICRAR-UWA](https://www.icrar.org/).
+subtitle: Astrophysics PhD student at <a href='https://www.icrar.org/'>ICRAR-UWA</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
