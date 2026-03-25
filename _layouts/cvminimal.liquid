@@ -1,0 +1,39 @@
+---
+layout: default
+---
+{% comment %}
+  Unified CV layout that handles both RenderCV (YAML) and JSONResume (JSON) formats
+  - If page.cv_format is set, it determines which format to render:
+    - 'rendercv': Load and render only RenderCV data (site.data.cv.cv)
+    - 'jsonresume': Load and render only JSONResume data (site.data.resume)
+  - If page.cv_format is not set, the legacy behavior applies:
+    - RenderCV data is in site.data.cv.cv
+    - JSONResume data is in site.data.resume
+    - RenderCV is prioritized if both exist
+  Both formats use the same unified rendering includes for consistent output
+{% endcomment %}
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      {% if page.cv_pdf %}
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif %}
+    </h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+</div>

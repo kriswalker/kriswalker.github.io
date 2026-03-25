@@ -1,12 +1,9 @@
 ---
-layout: cv
+layout: cvminimal
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
 cv_pdf: /assets/pdf/cv.pdf # you can also use external links here
-cv_format: # options: rendercv, jsonresume
-description:
-toc:
-  #sidebar: left
+description: Click the icon on the right to view my CV (opens in a new tab).
 ---
