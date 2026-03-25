@@ -51,11 +51,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-revolution-and-counter-revolution-in-spain",
+          title: 'Revolution and Counter Revolution in Spain',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/rev-counterrev-spain/";
+            },},{id: "books-the-star-fraction",
+          title: 'The Star Fraction',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the-star-fraction/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
