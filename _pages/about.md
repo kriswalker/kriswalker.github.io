@@ -26,9 +26,9 @@ latest_posts:
 
 Hi! My name is Kris and I'm a PhD student at the International Centre for Radio Astronomy Research at the University of Western Australia, supervised by Prof. Chris Power and Dr. Aaron Ludlow.
 
-My current work focuses on the physical boundaries of dark matter halos and galaxy clusters in cosmological simulations, and how the orbits of dark matter particles can help us better understand halo structure and evolution. Click [here](/research/) to see a list of my active projects.
+My current work focuses on the physical boundaries of dark matter halos and galaxy clusters in cosmological simulations, and how the orbits of dark matter particles can help us better understand halo structure and evolution. Click [here](/projects/) to see a list of my active projects.
 
-I have also done work on [probing small-scale structure in the interstellar medium using the scintillation of pulsar signals](/research/pulsar-scintillation/), and on [assessing the capabilities of next-generation gravitational wave observatories using simulated neutron star mergers](/research/gravitational-waves/). See a list of my publications [here](/publications/).
+I have also done work on [probing small-scale structure in the interstellar medium using the scintillation of pulsar signals](/projects/pulsar-scintillation/), and on [assessing the capabilities of next-generation gravitational wave observatories using simulated neutron star mergers](/projects/gravitational-waves/). See a list of my publications [here](/publications/).
 
 Aside from my research, I enjoy drawing, reading (check out [my bookshelf](/books/)), and am always down for a good hike. I am also a socialist activist in my free time. If you live in Australia and want to fight for a world free from capitalism, [join the Socialist Party](https://www.socialists.org.au/)!
 
