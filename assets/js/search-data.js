@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-research",
+          title: "research",
+          description: "Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
@@ -22,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -474,6 +474,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-halo-density-profiles",
+          title: 'Halo density profiles',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/density-profiles/";
+            },},{id: "projects-dynamical-halos",
+          title: 'Dynamical halos',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dynamical-halo/";
+            },},{id: "projects-neutron-star-gravitational-waves",
+          title: 'Neutron star gravitational waves',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gravitational-waves/";
+            },},{id: "projects-pulsar-scintillation",
+          title: 'Pulsar scintillation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pulsar-scintillation/";
+            },},{id: "projects-galaxy-edges",
+          title: 'Galaxy edges',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/stellar-splashback/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -503,7 +528,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("kriswalker.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/kriswalker.bsky.social", "_blank");
         },
       },{
         id: 'social-github',
