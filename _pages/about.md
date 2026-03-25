@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Astrophysics PhD candidate at <a href='https://www.icrar.org/'>ICRAR-UWA</a>.
+subtitle: Final-year astrophysics PhD candidate at <a href='https://www.icrar.org/'>ICRAR-UWA</a>.
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
 
 Hi! My name is Kris and I'm a PhD student at the International Centre for Radio Astronomy Research at the University of Western Australia, supervised by Prof. Chris Power and Dr. Aaron Ludlow.
 
-My current work focuses on the physical boundaries of dark matter halos and galaxy clusters in cosmological simulations, and how the orbits of dark matter particles can help us better understand halo structure and evolution. See a list of my active projects [here](/research/).
+My current work focuses on the physical boundaries of dark matter halos and galaxy clusters in cosmological simulations, and how the orbits of dark matter particles can help us better understand halo structure and evolution. Click [here](/research/) to see a list of my active projects.
 
 I have also done work on [probing small-scale structure in the interstellar medium using the scintillation of pulsar signals](/research/pulsar-scintillation/), and on [assessing the capabilities of next-generation gravitational wave observatories using simulated neutron star mergers](/research/gravitational-waves/). See a list of my publications [here](/publications/).
 
