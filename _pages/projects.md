@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: research
+permalink: /research/
+description: Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+display_categories: [active, past]
 horizontal: false
 ---
 
