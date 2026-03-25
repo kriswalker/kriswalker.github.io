@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /projects/
 description: Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!
 nav: true
 nav_order: 1
