@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /research/
+permalink: /projects/
 description: Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!
 nav: true
 nav_order: 1
@@ -9,8 +9,8 @@ display_categories: [active, past]
 horizontal: false
 ---
 
-<!-- pages/research.md -->
-<div class="research">
+<!-- pages/projects.md -->
+<div class="projects/">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
