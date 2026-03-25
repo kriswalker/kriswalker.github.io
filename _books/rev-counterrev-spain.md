@@ -8,7 +8,7 @@ isbn: # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: 
 tags:
 buy_link:
-date:
+date: 2026-03-26
 started:
 finished:
 released: 1938
