@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-blog",
           title: "blog",
