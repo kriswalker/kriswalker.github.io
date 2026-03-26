@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "research",
-          description: "Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!Much of my work is done as part of international collaborations. I am a member of the [Three Hundred Project](https://www.nottingham.ac.uk/astronomy/The300/index.php) collaboration and the [Solas simulations project](https://solas-sims.github.io/).",
+          description: "Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!Much of my work is done as part of international collaborations. I am a member of the Three Hundred Project collaboration and the Solas simulations project.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
