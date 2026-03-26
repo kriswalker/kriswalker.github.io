@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Revolution and Counter Revolution in Spain
+title: Revolution and Counter-Revolution in Spain
 author: Felix Morrow
 cover: assets/img/book_covers/rcris.webp
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -14,7 +14,8 @@ finished:
 released: 1938
 stars:
 goodreads_review:
-status: In progress
+status: reading
+
 ---
 
 I am currently still reading this. Check back later!

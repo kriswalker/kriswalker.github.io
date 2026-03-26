@@ -14,7 +14,8 @@ finished:
 released: 1995
 stars:
 goodreads_review:
-status: In progress
+status: reading
+
 ---
 
 I am currently still reading this. Check back later!
