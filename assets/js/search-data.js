@@ -52,7 +52,7 @@ ninja.data = [{
             window.location.href = "/books/";
           },
         },{id: "books-revolution-and-counter-revolution-in-spain",
-          title: 'Revolution and Counter Revolution in Spain',
+          title: 'Revolution and Counter-Revolution in Spain',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rev-counterrev-spain/";
