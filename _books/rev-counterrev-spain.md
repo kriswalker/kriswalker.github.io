@@ -18,6 +18,6 @@ status: reading
 
 ---
 
-> A contemporary account of the revolution and civil war in Spain in the 1930s in which the proletariat, betrayed by its Stalinist' social democratic, and anarchist leaderships, went down to defeat under the blows of an armed fascist movement.
+> A contemporary account of the revolution and civil war in Spain in the 1930s in which the proletariat, betrayed by its Stalinist, social democratic, and anarchist leaderships, went down to defeat under the blows of an armed fascist movement.
 
 I am currently still reading this. Check back later!
