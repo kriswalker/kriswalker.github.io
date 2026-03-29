@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description: Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!<br><br>Much of my work is done as part of international collaborations. I am a member of the <a href='https://www.nottingham.ac.uk/astronomy/The300/index.php'>Three Hundred Project</a> collaboration and the <a href='https://solas-sims.github.io/'>Solas simulations project</a>.
+description: **This page is currently under construction.**<br><br>Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!<br><br>Much of my work is done as part of international collaborations. I am a member of the <a href='https://www.nottingham.ac.uk/astronomy/The300/index.php'>Three Hundred Project</a> collaboration and the <a href='https://solas-sims.github.io/'>Solas simulations project</a>.
 nav: true
 nav_order: 1
 display_categories: [active, past]

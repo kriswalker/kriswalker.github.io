@@ -30,8 +30,10 @@ My current work focuses on the physical boundaries of dark matter halos and gala
 
 I have also done work on [probing small-scale structure in the interstellar medium using the scintillation of pulsar signals](/projects/pulsar-scintillation/), and on [assessing the capabilities of next-generation gravitational wave observatories using simulated neutron star mergers](/projects/gravitational-waves/). See a list of my publications [here](/publications/).
 
-Aside from my research, I enjoy drawing, reading (check out [my bookshelf](/books/)!), and am always up for a good hike. I am also a socialist activist in my free time. If you live in Australia and want to fight for a world free from capitalism, [join the Socialist Party](https://www.socialists.org.au/)!
+Aside from my research, I enjoy drawing, reading (check out [my bookshelf](/books/)!), and am always up for a good hike.
 
-**I have successfully defended my thesis and am currently looking for a postdoc position. If you think we should work together, let me know!**
+<!-- I am also a socialist activist in my free time. If you live in Australia and want to fight for a world free from capitalism, [join the Socialist Party](https://www.socialists.org.au/)! -->
+
+<!-- **I have successfully defended my thesis and am currently looking for a postdoc position. If you think we should work together, let me know!** -->
 
 You can reach me at kris.walker@research.uwa.edu.au or at any of my socials linked below.
