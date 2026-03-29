@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-research",
+          title: "research",
+          description: "Below are summaries of my current and past work. If you would like to collaborate on any of these projects, get in touch!Much of my work is done as part of international collaborations. I am a member of the Three Hundred Project collaboration and the Solas simulations project.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
