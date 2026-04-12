@@ -5,7 +5,7 @@ description:
 img: assets/img/dp.png
 importance: 2
 category: active
-related_publications: true
+related_publications: false
 ---
 
 Recent work has shown that the density profile of dark matter halos is better understood as a superposition of the profiles of orbiting and newly infalling material (<a href="https://doi.org/10.1093/mnras/stac878">Diemer 2022</a>). Modeling these components separately provides an excellent description of the outer halo profile, a region that has received less attention due to its apparent complexity.
